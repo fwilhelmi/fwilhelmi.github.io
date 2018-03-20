@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "Francesc Wilhelmi: PhD Student in the Wireless Networking Research Group (WNRG), Universitat Pompeu Fabra (UPF)"
+title: "Francesc Wilhelmi"
+subtitle: "PhD Student in the Wireless Networking Research Group (WNRG), Universitat Pompeu Fabra (UPF)""
 author_profile: true
 redirect_from: 
   - /about/
