@@ -79,14 +79,15 @@ for row, item in projects.iterrows():
     if len(str(item.excerpt)) > 5:
         md += "\nexcerpt: '" + html_escape(item.excerpt) + "'"
     
-    md += "\start: " + str(item.pub_date) 
-
-    md += "\end: " + str(item.pub_date) 
+    if len(str(item.location)) > 3:
+        md += "date: " + str(item.date) + "\n"
         
     md += "\n---"
     
-    ## Markdown description for individual page
-            
+    ## Markdown description for individual project
+    if len(str(item.description)) > 3:
+        md += "\n" + html_escape(item.description) + "\n"
+                
     if len(str(item.excerpt)) > 5:
         md += "\n" + html_escape(item.excerpt) + "\n"
            

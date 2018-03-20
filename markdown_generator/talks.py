@@ -106,6 +106,4 @@ for row, item in talks.iterrows():
     with open("../_talks/" + md_filename, 'w') as f:
         f.write(md)
 
-
 # These files are in the talks directory, one directory below where we're working from.
-
