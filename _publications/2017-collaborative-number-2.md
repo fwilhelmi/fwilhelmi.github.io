@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2017-collaborative-number-2
 excerpt: 
 date: 2017-10-31
-venue: 'Submitted to Transactions on Mobile Computing (TMC)'
+venue: 'Submitted to Ad-hoc Networks (Elsevier)'
 paperurl: 'https://arxiv.org/abs/1710.11403'
 citation: 'Wilhelmi, F., Cano, C., Neu, G., Bellalta, B., Jonsson, A., & Barrachina-Muñoz, S. (2017). Collaborative Spatial Reuse in Wireless Networks via Selfish Multi-Armed Bandits.'
 ---
