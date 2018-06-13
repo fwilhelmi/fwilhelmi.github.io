@@ -3,8 +3,10 @@ title: "Introducing Arduino and the IoT to Kids and Teenagers"
 collection: project
 type: "Dissemination"
 permalink: /projects/2017-arduino-1
-date: 2018-06-01
+date: 2017-07-15
 ---
+
+# Introducing Arduino and the IoT to Kids and Teenagers
 
 This project aims to disseminate and motivate the use of new technologies among young people. To that purpose, several activities have been so far held in collaboration with the UPF and Ajuntament de Barcelona.
 
