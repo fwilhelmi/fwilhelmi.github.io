@@ -9,12 +9,3 @@ location: "Bacelona, Spain"
 ---
 
 Introductory course on Arduino, addressed to high school students and below. More information [here](https://www.upf.edu/web/campus-junior/home/-/asset_publisher/tgk9EUtxRNj6/content/id/8049558/maximized#.Wq_YsJPwZ24).
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
