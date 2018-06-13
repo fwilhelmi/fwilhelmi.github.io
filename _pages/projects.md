@@ -6,6 +6,6 @@ permalink: /projects/
 
 {% include base_path %}
 
-Wireless Networking through Leaning
-======
-
+{% for post in site.projects reversed %}
+  {% include archive-single.html %}
+{% endfor %}
