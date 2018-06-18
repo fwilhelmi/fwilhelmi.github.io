@@ -72,7 +72,7 @@ for row, item in projects.iterrows():
     
     md = "---\ntitle: \""   + item.title + '"\n'
     
-    md += """collection: publications"""
+    md += """collection: projects"""
     
     md += """\npermalink: /project/""" + html_filename
     
@@ -88,8 +88,8 @@ for row, item in projects.iterrows():
     if len(str(item.description)) > 3:
         md += "\n" + html_escape(item.description) + "\n"
                 
-    if len(str(item.excerpt)) > 5:
-        md += "\n" + html_escape(item.excerpt) + "\n"
+    #if len(str(item.excerpt)) > 5:
+    #    md += "\n" + html_escape(item.excerpt) + "\n"
            
     md_filename = os.path.basename(md_filename)
        
