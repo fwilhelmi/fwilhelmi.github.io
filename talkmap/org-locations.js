@@ -8,5 +8,10 @@ var addressPoints = [
     "Geneva, Switzerland",
     46.2214086,
     6.139260899999954
+  ],
+  [
+    "Mexico City, Mexico",
+    19.432608, 
+    -99.133209
   ]
 ];
