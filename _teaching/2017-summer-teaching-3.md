@@ -4,7 +4,7 @@ collection: teaching staff
 type: "Campus Junior, UPF"
 permalink: /teaching/arduino-campus-junior-upf
 venue: "Universitat Pompeu Fabra"
-date: 2017, 2018
+date: 2017-04-01, 2018-04-01
 location: "Bacelona, Spain"
 ---
 
