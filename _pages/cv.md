@@ -31,6 +31,9 @@ Research experience
 * October 2016 to present: PhD Student
   * [Wireless Networking Research Group (WNRG)](https://www.wnrg.upf.edu/home), [Universitat Pompeu Fabra](http://www.upf.edu)
   * Supervisors: [Boris Bellalta, Ph.D](http://www.dtic.upf.edu/~bbellalt/), [Anders Jonsson, Ph.D](http://www.tecn.upf.es/~jonsson/) and [Cristina Cano, Ph.D](http://ccanobs.github.io/)
+* September 2018 to March 2019: Research stay 
+  * Wireless Research Lab, [Universidad Nacional Autónoma de México](https://www.unam.mx/)
+  * Supervisor: [Javier Gómez, Ph.D](http://profesores.fi-b.unam.mx/javierg/)
   
 Refereed Journal Publications
 ======
