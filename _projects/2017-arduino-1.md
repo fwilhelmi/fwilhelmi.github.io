@@ -9,7 +9,7 @@ date: 2017-07-15
 This project aims to disseminate and motivate the use of new technologies among young people. To that purpose, several activities have been so far held in collaboration with the UPF and Ajuntament de Barcelona.
 
 ## Campus Junior - UPF
-Participation in the summer course "Descobrint l'IoT a través d'Arduino" held at the UPF. More information [here](https://www.upf.edu/web/campus-junior/home/-/asset_publisher/tgk9EUtxRNj6/content/id/8049558/maximized#.WyDezFOFN24).
+Participation in the summer course "Descobrint l'IoT a través d'Arduino" held at the UPF (2017, 2018). More information [here](https://www.upf.edu/web/campus-junior/home/-/asset_publisher/tgk9EUtxRNj6/content/id/8049558/maximized#.WyDezFOFN24).
 
 ## Yomo - Barcelona Mobile World Congress
 Participation in the workshop held by BCN Activa in Yomo (MWC Barcelona). More information [here](https://www.mwcyomo.com/ca/).
