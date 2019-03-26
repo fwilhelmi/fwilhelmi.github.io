@@ -4,7 +4,7 @@ collection: teaching assistant
 type: "Undergraduate course"
 permalink: /teaching/networks-upf
 venue: "Universitat Pompeu Fabra"
-date: 2016-2017-2018-2019
+date: 2016, 2017, 2018, 2019
 location: "Bacelona, Spain"
 ---
 
