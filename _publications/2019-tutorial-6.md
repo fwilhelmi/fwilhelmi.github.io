@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-tutorial-number-6
 excerpt: 
 date: 2019-07-30
-venue: ''
+venue: '(To be submitted)'
 paperurl: ''
 citation: 
 ---

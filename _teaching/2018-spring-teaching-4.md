@@ -2,7 +2,7 @@
 title: "Teaching Assistant: Wireless Multimedia Networks"
 collection: teaching assistant
 type: "Undergraduate course"
-permalink: /teaching/networks-upf
+permalink: /teaching/wmn-upf
 venue: "Universitat Pompeu Fabra"
 date: 2018-04-01
 location: "Bacelona, Spain"

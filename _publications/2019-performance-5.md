@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-conference-number-5
 excerpt: 
 date: 2019-10-28
-venue: 'CSCN 2019'
+venue: 'IEEE Conference on Standards for Communications and Networking (CSCN)'
 paperurl: 'https://arxiv.org/abs/1906.08063'
 citation: 'Wilhelmi, F., Barrachina-Muñoz, S., & Bellalta, B. (2019). On the Performance of the Spatial Reuse Operation in IEEE 802.11 ax WLANs. arXiv preprint arXiv:1906.08063.'
 ---

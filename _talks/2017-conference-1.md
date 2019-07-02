@@ -3,7 +3,7 @@ title: "Implications of decentralized Q-learning resource allocation in wireless
 collection: Conference
 type: "Conference"
 permalink: /talks/2017-10-12-talk-4
-venue: "PIMRC 2017"
+venue: "PIMRC"
 date: 2017-10-12
 location: "Montreal, Canada"
 ---
