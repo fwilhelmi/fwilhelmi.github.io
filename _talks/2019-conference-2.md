@@ -13,4 +13,4 @@ Presentation of paper entitled "Komondor: a Wireless Network Simulator for Next-
 
 The full program of the venue is available [here](https://wirelessdays2019.net/program.html).
 
-![Image in WD](https://fwilhelmi.github.io/images/fwilhelmi_wd19.jpg)
+![Image in WD](https://fwilhelmi.github.io/images/fwilhelmi_wd19.JPG)
