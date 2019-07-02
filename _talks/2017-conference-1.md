@@ -13,4 +13,4 @@ Presentation of paper entitled "Implications of decentralized Q-learning resourc
 
 The full program of the venue is available [here](http://pimrc2017.ieee-pimrc.org/program/program-overview/).
 
-![Image in PIMRC](https://fwilhelmi.github.io/images/fwilhelmi_pimrc.JPG)
+![Image in PIMRC](https://fwilhelmi.github.io/images/fwilhelmi_pimrc.JPG){.callout}
