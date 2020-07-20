@@ -33,5 +33,10 @@ var addressPoints = [
     "Florence, Italy",
     43.800593, 
     11.245139
+  ],
+  [
+    "Berlin, Germany",
+    52.516342, 
+    13.325243
   ]
 ];

@@ -11,18 +11,14 @@ redirect_from:
 
 Short Bio
 ======
-Francesc holds a BSc degree in Telematics Engineering from the Universitat Pompeu Fabra (2015) with a focus on Broadband and Wireless Communications. With the aim of applying new techniques for solving many well-known problems in communications, Francesc obtained his MSc degree in Intelligent and Interactive Systems also from the UPF in 2016. He is now a Ph.D. Student in the Wireless Networking Group (WN) of the Department of Information and Communication Technologies (DTIC) at the UPF. His Ph.D. thesis is mostly focused on spectral efficiency for high-density wireless networks, thus showing the potential of applying techniques such as Reinforcement Learning (RL) in decentralized scenarios. 
+Francesc holds a B.Sc. degree in Telematics Engineering (2015) and an M.Sc. in Intelligent and Interactive Systems (2016), both from Universitat Pompeu Fabra (UPF). He is currently pursuing a Ph.D. in Information and Communication Technologies at UPF. His Ph.D. thesis is mostly focused on spectral efficiency for high-density wireless networks, with emphasis on multi-agent systems for decentralized and distributed scenarios. Francesc is also involved in standardization activities within the ITU-T. In particular, his an active collaborator of the Focus Group on Machine Learning for Future Networks including 5G (FG-ML5G), where he has acted as an editor, a mentor on students projects, and organized a problem statement for the ITU-T AI Challenge. With regards to education, Francesc has been a teaching assistant in the “Networks”, “Wireless Multimedia Networks” and “Laboratory Networks” subjects at the UPF from 2015 to present.
 
-Francesc is also involved in some standardization activities held by the ITU-T. In particular, his an active collaborator of the Focus Group on Machine Learning for Future Networks including 5G (FG-ML5G).
-
-With regards to education, Francesc has been a teaching assistant in the “Networks”, "Wireless Multimedia Networks" and “Laboratory Networks” subjects at the UPF from 2015 to present.
-
-**Keywords:** High-Density Wireless Networks, IEEE 802.11, 5G, Machine Learning
+**Keywords:** 5G/6G, Artificial Intelligence, IEEE 802.11ax, IEEE 802.11be, Machine Learning, Multi-agent systems, Spatial Reuse, Wireless Networks, WLAN
 
 Education
 ======
-* Ph.D. in [Wireless Networking](https://www.wnrg.upf.edu/home), , 2019 (expected). 
-  * Thesis Topic: Enhancing Spatial Reuse in Future High-Density Wireless Networks through Learning.
+* Ph.D. in [Wireless Networking](https://www.wnrg.upf.edu/home), September 2020 (expected). 
+  * Thesis Topic: Towards Spatial Reuse in Future Wireless Local Area Networks: A Sequential Learning Approach.
   * Advisors: [Boris Bellalta, Ph.D.](http://www.dtic.upf.edu/~bbellalt/), [Anders Jonsson, Ph.D.](http://www.tecn.upf.es/~jonsson/) and [Cristina Cano, Ph.D.](http://ccanobs.github.io/)
 * M.S. in [Intelligent and Interactive Systems](https://www.upf.edu/web/iis), [Universitat Pompeu Fabra](http://www.upf.edu), 2016.
   * Master Thesis Topic: Multi-Agent Reinforcement Learning Methods to Minimize OBSS Interferences.
