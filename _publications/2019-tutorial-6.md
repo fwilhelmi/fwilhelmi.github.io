@@ -1,10 +1,10 @@
 ---
-title: "Spatial Reuse in the IEEE 802.11ax: Analysis, Challenges and Opportunities"
+title: "Spatial Reuse in IEEE 802.11ax WLANs"
 collection: publications
 permalink: /publication/2019-tutorial-number-6
 excerpt: 
 date: 2019-07-30
-venue: Submitted to JNCA
+venue: ArXiV
 paperurl: ''
 citation: Wilhelmi, Francesc, Barrachina-Muñoz, Sergio, Cano, Cristina, Selinis, Ioannis and Bellalta, Boris. "Spatial Reuse in IEEE 802.11ax WLANs." arXiv preprint arXiv:1907.04141 (2019).
 
