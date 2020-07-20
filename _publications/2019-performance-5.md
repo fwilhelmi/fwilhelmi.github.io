@@ -1,7 +1,7 @@
 ---
 title: "On the Performance of the Spatial Reuse Operation in IEEE 802.11 ax WLANs"
 collection: publications
-permalink: /publication/2019-conference-number-5
+permalink: /publication/2019-performance-5
 excerpt: 
 date: 2019-10-28
 venue: 'IEEE Conference on Standards for Communications and Networking (CSCN)'
