@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-magazine-7
 excerpt: 
 date: 2019-10-08
-venue: Submitted to IEEE Communications Magazine
+venue: IEEE Communications Magazine
 paperurl: ''
 citation: Wilhelmi, F., Barrachina-Munoz, S., Bellalta, B., Cano, C., Jonsson, A., & Ram, V. (2020). A Flexible Machine-Learning-Aware Architecture for Future WLANs. IEEE Communications Magazine, 58(3), 25-31.
 
