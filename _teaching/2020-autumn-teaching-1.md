@@ -1,5 +1,5 @@
 ---
-title: "Course instructor: Networks"
+title: "Course instructor: Fonaments de xarxa i arquitectures"
 collection: course instructor
 type: "Applied Data Science"
 permalink: /teaching/networks-uoc
