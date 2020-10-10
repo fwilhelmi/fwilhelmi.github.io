@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Francesc Wilhelmi / Personal Website"
 title_separator          : "-"
 name                     : &name "Francesc Wilhelmi"
-description              : &description "Ph.D., candidate in the Wireless Networking Research Group (WNRG) at the UPF"
+description              : &description "Postdoctoral researcher in the Mobile Networks department at CTTC"
 url                      : https://fwilhelmi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fwilhelmi/fwilhelmi.github.io"
@@ -84,7 +84,7 @@ author:
   location         : "Barcelona, Spain"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=4EHXj4UAAAAJ&hl=en"
-  email            : francisco.wilhelmi@upf.edu
+  email            : fwilhelmi@cttc.cat
   uri              :
   bitbucket        :
   codepen          :
