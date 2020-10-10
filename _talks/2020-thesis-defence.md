@@ -1,5 +1,5 @@
 ---
-title: Thesis defence: "Towards Spatial Reuse in Future WLANs: a Sequential Learning Approach"
+title: "Towards Spatial Reuse in Future WLANs: a Sequential Learning Approach"
 collection: talk
 type: "Talk"
 permalink: /talks/2020-10-07-thesis-defence
