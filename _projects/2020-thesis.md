@@ -1,5 +1,5 @@
 ---
-title: Thesis: "Towards Spatial Reuse in Future WLANs: a Sequential Learning Approach"
+title: "Towards Spatial Reuse in Future WLANs: a Sequential Learning Approach"
 collection: project
 type: "Dissertation"
 permalink: /projects/2020-thesis
