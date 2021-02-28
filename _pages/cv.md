@@ -20,7 +20,7 @@ Education
 * Ph.D. in [Wireless Networking](https://www.wnrg.upf.edu/home), October 2020.
   * Honors: mention cum laude.
   * Thesis title: Towards Spatial Reuse in Future Wireless Local Area Networks: a Sequential Learning Approach.
-  * Advisors: [Boris Bellalta, Ph.D.](http://www.dtic.upf.edu/~bbellalt/), [Anders Jonsson, Ph.D.](http://www.tecn.upf.es/~jonsson/) and [Cristina Cano, Ph.D.](http://ccanobs.github.io/)
+  * Advisors: [Boris Bellalta, Ph.D.](http://www.dtic.upf.edu/~bbellalt/), [Anders Jonsson, Ph.D.](http://www.tecn.upf.es/~jonsson/), and [Cristina Cano, Ph.D.](http://ccanobs.github.io/)
 * M.S. in [Intelligent and Interactive Systems](https://www.upf.edu/web/iis), [Universitat Pompeu Fabra](http://www.upf.edu), 2016.
   * Master Thesis Topic: Multi-Agent Reinforcement Learning Methods to Minimize OBSS Interferences.
   * Advisors: [Boris Bellalta, Ph.D.](http://www.dtic.upf.edu/~bbellalt/) and [Anders Jonsson, Ph.D.](http://www.tecn.upf.es/~jonsson/)
