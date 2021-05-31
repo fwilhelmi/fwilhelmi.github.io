@@ -4,7 +4,7 @@ collection: talk
 type: "Talk"
 permalink: /talks/2021-17-05-keynote-annet
 venue: "Keynote AnNet 2021"
-date: 2021-17-05
+date: 2021-05-17
 location: "Online"
 ---
 
