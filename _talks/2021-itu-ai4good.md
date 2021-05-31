@@ -4,7 +4,7 @@ collection: talk
 type: "Talk"
 permalink: /talks/2021-05-05-itu-ai4good
 venue: "ITU AI/ML in 5G Challenge"
-date: 2021-05-05
+date: 2021-17-05
 location: "Online"
 ---
 
