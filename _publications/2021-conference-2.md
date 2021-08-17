@@ -1,5 +1,5 @@
 ---
-title: "Discrete-Time Analysis of Wireless Blockchain Networks"
+title: "On the Performance of Blockchain-enabled RAN-as-a-service in Beyond 5G Networks"
 collection: publications
 permalink: /publication/2021-gc-2021
 excerpt: 
