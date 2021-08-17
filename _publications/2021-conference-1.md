@@ -3,7 +3,7 @@ title: "Discrete-Time Analysis of Wireless Blockchain Networks"
 collection: publications
 permalink: /publication/2021-pimrc-2021
 excerpt: 
-date: 2021-12-04
+date: 2021-04-12
 venue: IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC) 
 paperurl: ''
 citation: Wilhelmi, F., & Giupponi, L. (2021). Discrete-Time Analysis of Wireless Blockchain Networks.

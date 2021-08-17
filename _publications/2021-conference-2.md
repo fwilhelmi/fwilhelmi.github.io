@@ -3,7 +3,7 @@ title: "Discrete-Time Analysis of Wireless Blockchain Networks"
 collection: publications
 permalink: /publication/2021-gc-2021
 excerpt: 
-date: 2021-17-08
+date: 2021-08-17
 venue: IEEE Global Communications Conference (Globecom)
 paperurl: ''
 citation: Wilhelmi, F., & Giupponi, L. (2021). On the Performance of Blockchain-enabled RAN-as-a-service in Beyond 5G Networks.
