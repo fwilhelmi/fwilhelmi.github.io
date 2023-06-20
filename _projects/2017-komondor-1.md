@@ -1,12 +1,16 @@
 ---
+permalink: /projects/2017-komondor-1
+author_profile: true
 title: "Komondor: an IEEE 802.11ax simulator"
 collection: project
 type: "Research"
-permalink: /projects/2017-komondor-1
 date: 2018-01-01
 ---
 
-Komondor is an open-source simulation tool that aims to reproduce novel techniques to be included in next-generation WLANs. Particular emphasis is done to the IEEE 802.11ax amendment, and the inclusion of intelligent agents is one of the main novelties of the project.
+Komondor in a nutshell
+======
+
+Komondor is an open-source simulation tool that aims to reproduce novel techniques to be included in next-generation WLANs. Particular emphasis is put on the IEEE 802.11ax specification, thus implementing features such as Dynamic Channel Bonding (DCB) and OBSS/PD-based Spatial Reuse. Komondor also includes native support for online-learning-driven operations.
 
 The whole project regarding the 11ax Simulator can be found in [https://github.com/wn-upf/Komondor](https://github.com/wn-upf/Komondor). 
 

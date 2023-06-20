@@ -11,9 +11,9 @@ redirect_from:
 
 Short Bio
 ======
-Francesc holds a Ph.D. in Information and Communication Technologies (2020), from Universitat Pompeu Fabra (UPF). Previously, he obtained a B.Sc. degree in Telematics Engineering (2015) and an M.Sc. in Intelligent and Interactive Systems (2016), also from the UPF. He is currently working as a postdoctoral researcher in the Mobile Networks department at Centre Tecnològic de Telecomunicacions de Catalunya (CTTC). He is also involved in standardization activities within the ITU-T. In particular, he actively participated in the Focus Group on Machine Learning for Future Networks including 5G (FG-ML5G), where he has acted as an editor, a mentor on students projects, and organized a problem statement for the ITU-T AI Challenge. Regarding education, Francesc has been a teaching assistant at the UPF since 2015 and course instructor at Universitat Oberta de Catalunya (UOC) since 2020. He has participated in subjects such as "Networks", "Wireless Multimedia Networks", "Laboratory Networks", or "Network and architecture fundamentals".
+Francesc is a research engineer at Nokia Bell Labs. He holds a Ph.D. in Information and Communication Technologies (2020) and an M.Sc. in Intelligent and Interactive Systems (2016) from Universitat Pompeu Fabra (UPF). Previously, he was a researcher at Centre Tecnològic de Telecomunicacions de Catalunya (CTTC). His main research interests are in Wi-Fi technologies and their evolution, network simulators and network digital twinning, machine learning, decentralized learning, and distributed ledger technologies. In the past, he was also involved in standardization activities within the ITU-T, where he was one of the main editors of recommendation Y.3181 “Architectural framework for Machine Learning Sandbox in future networks including IMT-2020”. In addition, he has organized three problem statements in the ITU AI/ML in 5G Challenge. Regarding education, Francesc was a teaching assistant at the UPF from 2015 to 2020 and course instructor at Universitat Oberta de Catalunya (UOC) from 2020 to 2022, participating in undergraduate and Master courses like "Networks", "Wireless Multimedia Networks", "Laboratory Networks", or "Network and architecture fundamentals".
 
-**Keywords:** 5G/6G, Artificial Intelligence, IEEE 802.11ax, IEEE 802.11be, Machine Learning, Multi-agent systems, Spatial Reuse, Wireless Networks, WLAN
+**Keywords:** 5G/6G, Artificial Intelligence, Blockchain, Distributed Ledger Technologies, Federated Learning, IEEE 802.11, Machine Learning, Multi-Agent Multi-Armed Bandits, Wi-Fi, Wireless Networks
 
 Education
 ======
@@ -29,9 +29,17 @@ Education
 
 Research experience
 ======
+* December October 2022 to present: Research Engineer
+  * Radio Systems Research, [Nokia Bell Labs](https://www.bell-labs.com/)
+  * Focus on Wireless Unlicensed & Wi-Fi, AI/ML
+* December October 2020 to October 2022: Postdoc Researcher
+  * [Sustainable Artificial Intelligence](https://www.cttc.cat/sustainable-artificial-intelligence-sai/), [Centre Tecnològic de Telecomunicacions de Catalunya](https://www.cttc.cat/)
+  * Supervisors: [Lorenza Giupponi, Ph.D.](https://scholar.google.com/citations?user=nPKg7R8AAAAJ) and [Paolo Dini, Ph.D.](https://scholar.google.com/citations?user=ReRYAWUAAAAJ)
+  * Focus on Blockchain, DLTs, Distributed ML, Federated Learning, FLchain
 * December 2016 to October 2020: PhD Student
   * [Wireless Networking Research Group (WNRG)](https://www.wnrg.upf.edu/home), [Universitat Pompeu Fabra](http://www.upf.edu)
   * Supervisors: [Boris Bellalta, Ph.D.](http://www.dtic.upf.edu/~bbellalt/), [Anders Jonsson, Ph.D.](http://www.tecn.upf.es/~jonsson/) and [Cristina Cano, Ph.D.](http://ccanobs.github.io/)
+  * Focus on Wi-Fi, Spatial Reuse, Multi-Armed Bandits, AI/ML
 * September 2018 to March 2019: Research stay 
   * Wireless Research Lab, [Universidad Nacional Autónoma de México](https://www.unam.mx/)
   * Supervisor: [Javier Gómez, Ph.D.](http://profesores.fi-b.unam.mx/javierg/)
