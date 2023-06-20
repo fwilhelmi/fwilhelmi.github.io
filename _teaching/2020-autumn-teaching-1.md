@@ -10,4 +10,4 @@ location: "Bacelona, Spain"
 
 Introductory course on networks and their role in the data lifecycle. The content of the subject is based on James F. Kurose and Keith W. Ross, "Computer Networking. A Top-down Approach", Pearson/Addison Wesley. More information [here](https://cv.uoc.edu/tren/trenacc/web/GAT_EXP.PLANDOCENTE?any_academico=20192&cod_asignatura=22.422&idioma=CAT&pagina=PD_PREV_PORTAL).
 
-Courses: 2020-1.
+Courses: 2020-1, 2020-2, 2021-1, 2021-2
