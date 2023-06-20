@@ -7,8 +7,8 @@ date: 2021-04-12
 venue: IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC) 
 paperurl: ''
 citation: Wilhelmi, F., & Giupponi, L. (2021). Discrete-Time Analysis of Wireless Blockchain Networks.
-
 ---
+
 **Abstract:** Blockchain (BC) technology can revolutionize future networks by providing a distributed, secure, and unalterable way
 to boost collaboration among operators, users, and other stakeholders. Its implementations have traditionally been supported by
 wired communications, with performance indicators like the high latency introduced by the BC being one of the key technology
